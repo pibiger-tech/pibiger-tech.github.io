@@ -2,6 +2,14 @@
 site_name: Pibiger 
 site_url: https://wiki.pibiger-tech.com
 
+nav :
+- Home: index.md
+- SavvyCAN Series:
+  - SavvyCAN-FD-C: savvycan/savvycan-fd-c.md
+  - SavvyCAN-FD-X2: savvycan/savvycan-fd-x2.md
+- Raspberry PI:
+  - PI-CAMV2: raspberrr_pi/pi-camv2
+
 theme:
   name: mkdocs
 
