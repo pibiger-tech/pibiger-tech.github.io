@@ -1,7 +1,20 @@
 
-site_name: Pibiger WIKI
-site_url: wiki.pibiger-tech.com
+site_name: Pibiger 
+site_url: https://wiki.pibiger-tech.com
+
 theme:
-  name: readthedocs
+  name: mkdocs
+
+markdown_extentions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+plugins:
+  - search
+
+extra_css:
+  - resources/css/extra.css
+
 copyright: |
   &copy; 2023 <a href="https://www.pibiger-tech.com"  target="_blank" rel="noopener">Pibiger</a>
