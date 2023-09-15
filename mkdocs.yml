@@ -8,7 +8,7 @@ nav :
   - SavvyCAN-FD-C: savvycan/savvycan-fd-c.md
   - SavvyCAN-FD-X2: savvycan/savvycan-fd-x2.md
 - Raspberry PI:
-  - PI-CAMV2: raspberrr_pi/pi-camv2
+  - PI-CAMV2: raspberry_pi/pi-camv2.md
 
 theme:
   name: mkdocs
